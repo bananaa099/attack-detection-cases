@@ -3,7 +3,9 @@
 Attack simulations run in my home lab (homelab-SIEM), with the steps taken and how each one was detected in logs.
 
 ## Cases
--
+- case-01-encoded-powershell
+- case-02-account-creation-privilege
+
 
 ## Each case includes
 - Attack goal and tools used
